@@ -9,3 +9,5 @@ Entitați:
 -	Vânzări, clienți, date_client
 -	Stoc, produse
 -	Furnizori, date_furnizori
+
+![Diagrame_BD](Diagrame.png)
